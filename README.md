@@ -1,4 +1,4 @@
-# AMO - Alagoas no Mapa do OBI
+<h1 align="center"> AMO - Alagoas no Mapa do OBI</h1>
 
 <p align="center">
 O AMO (Alagoas no Mapa do OBI) é um projeto de treinamento interno que prepara os alunos para a Olimpíada Brasileira de Informática (OBI) dentro e fora do Instituto Federal de Alagoas (IFAL - Campus Maceió). 
